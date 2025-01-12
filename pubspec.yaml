@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
- google_api_headers: 
+  google_api_headers: 
     git:
         url: https://github.com/ZainabElSawy/google_api_headers-main
         ref: main
